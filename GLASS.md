@@ -1,0 +1,1 @@
+see [What is GLASS?](http://seaside.gemstone.com/)

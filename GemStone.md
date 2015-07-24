@@ -1,0 +1,1 @@
+see [What is GemStone?](http://code.google.com/p/glassdb/wiki/WhatIsGemStone)

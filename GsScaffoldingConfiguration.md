@@ -1,0 +1,1 @@
+For using GSScaffolding see [Scaffolding for GemStone](http://gemstonesoup.wordpress.com/2008/11/13/scaffolding-for-gemstone/)
